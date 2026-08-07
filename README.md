@@ -1,5 +1,5 @@
 ---
-title: DeepShield Deepfake Detection
+Title: DeepShield Deepfake Detection
 emoji: 🛡️
 colorFrom: blue
 colorTo: indigo
