@@ -1,7 +1,6 @@
 # Title: DeepShield Deepfake Detection System
 
----
-emoji: 🛡️
+---emoji: 🛡️
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
